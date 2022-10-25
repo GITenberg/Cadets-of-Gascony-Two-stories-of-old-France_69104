@@ -5,6 +5,9 @@ contributor:
     agent_name: Betts, Anna Whelen
     gutenberg_agent_id: '55104'
     url: http://www.gutenberg.org/2009/agents/55104
+covers:
+- cover_type: archival
+  image_path: 69104-h/images/cover.jpg
 creator:
   author:
     agent_name: Stevenson, Burton Egbert
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/980
     wikipedia: https://en.wikipedia.org/wiki/Burton_Egbert_Stevenson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69104#Cadets-of-Gascony-Two-stories-of-old-France
 gutenberg_issued: '2022-10-07'
 identifiers:
   gutenberg: '69104'
